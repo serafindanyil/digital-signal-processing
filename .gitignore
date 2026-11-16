@@ -1,0 +1,7 @@
+# Generated plots
+lab-*/figures/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
