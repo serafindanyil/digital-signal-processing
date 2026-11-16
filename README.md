@@ -1,0 +1,1 @@
+This repository contains laboratory works for the course "Fundamentals of Digital Signal and Image Processing".
